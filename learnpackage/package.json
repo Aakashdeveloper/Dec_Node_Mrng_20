@@ -1,0 +1,14 @@
+{
+  "name": "mytestapp",
+  "version": "1.0.0",
+  "description": "this is about nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "nareshit",
+  "license": "ISC"
+}

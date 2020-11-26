@@ -1,0 +1,86 @@
+Basic JavaScript
+
+NPM
+Basic NodeJS(in built)(Os,file,http)
+NodeJS(full Stack App) (Node-EJS-Mongo-Express)
+Third Party Api (Weather Api)
+Node-Es6(.babel)
+Redis  > 6379
+Oauth(with github)
+Github
+Login/Logout(JWT)
+MongoDb Basic >27017
+Api with NodeJS(Rest)
+DashBoard(Crud)
+Testing
+OO_NodeJs
+GraphQl API
+NodeJs with postgres
+Chatapp
+----Production----
+Nginx
+Docker
+Heroku
+Pm2
+Email With Node(sendgrid)
+
+-------NOT----
+UI Design (html css bootstrap react jquery)
+
+
+
+https://code.visualstudio.com/
+https://nodejs.org/en/
+https://github.com/Aakashdeveloper
+
+NodeJs
+Async SingleThread NonBlock I/O
+chrome v8 engine
+convert code in machine language
+c++ and Javascript
+open source
+
+
+> NPM
+node package manager
+
+JSON > Way to represent data
+JavaScript Object Notation
+
+var movies = [
+    {
+        name:'Jab we met'
+        rating: 4.6
+    },
+    {
+        name:'Avengers'
+        rating: 4.7
+    }
+]
+
+=> Package.json 
+> starting point to application
+> Meta data
+  # name
+  # Description
+  # Version
+  # author
+> Script
+  # Run
+  # Build
+  # Test
+> Packages
+  > All packages and version
+
+
+///////////////
+Step to create package.json
+//////////////
+** NodeJs must be install
+> Navigate to the folder using cmd/terminal
+> cd folderpath
+> type npm init
+> answer all questions
+> type 'yes'
+
+node -v
